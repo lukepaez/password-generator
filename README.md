@@ -1,12 +1,10 @@
-# ts-starter
+# **ts-starter**
+Boilerplate code for TypeScript projects. Intended to streamline the setup process for new projects.
 
-# pre-requisites
-
-    - node
-
-# vscode extensions
+## Features
 
     - prettier
-        - vscode set default formatter (prettier)
-        - format on save (enable)
     - eslint
+    - nodemon
+
+
